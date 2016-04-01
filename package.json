@@ -1,0 +1,16 @@
+{
+  "name": "compile-less",
+  "main": "./lib/compile-less",
+  "version": "1.0.0",
+  "description": "Compiles LESS files on save.",
+  "repository": "https://github.com/ben-mckernan/compile-less",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "less": "^2.6.1",
+    "mkdirp": "^0.5.1"
+  },
+  "readmeFilename": "README.md"
+}
